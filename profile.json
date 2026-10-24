@@ -1,39 +1,35 @@
 {
   "version": 1,
   "login": "bilaljanu",
-  "seed": "#B36CFF",
+  "seed": "#9C543F",
   "seedFromAvatar": false,
-  "scheme": "monochrome",
+  "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
     "socials",
     "about",
-    "wave",
     "stack",
     "projects",
     "stats",
     "streak",
+    "wave",
     "buttons"
   ],
   "hidden": [
-    "buttons"
+    "socials"
   ],
   "hero": {
-    "greeting": "wow its",
+    "greeting": "Hi, I'm",
     "name": "idkbilal",
-    "subtitle": "i do basically everything, porting, making apps.",
+    "subtitle": "i do basically everything",
     "typing": false,
-    "avatarShape": "clover",
+    "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
         "label": "Sweden"
-      },
-      {
-        "icon": "code",
-        "label": ""
       }
     ]
   },
@@ -42,11 +38,11 @@
     "items": [
       {
         "icon": "person",
-        "label": "like i said everthing"
+        "label": "Developer, designer and animator"
       },
       {
         "icon": "code",
-        "label": "fullstack ig."
+        "label": "Mostly frontend and sometimes fullstack."
       }
     ]
   },
@@ -61,20 +57,29 @@
             "label": "TypeScript"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
             "icon": "brand:python",
             "label": "Python"
           },
           {
             "icon": "brand:javascript",
-            "label": "Java"
+            "label": "Javascript"
           },
           {
-            "icon": "brand:javascript",
-            "label": "Javascript"
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Git"
           }
         ]
       }
@@ -82,12 +87,7 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [
-      "pixel-garden",
-      "tiny-weather",
-      "echo-bot",
-      "dotfiles"
-    ],
+    "repos": [],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -110,11 +110,23 @@
     "days": "days"
   },
   "socials": {
-    "items": [],
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
     "variant": "chip",
     "fill": "tonal",
-    "card": true,
-    "shape": "soft"
+    "card": true
   },
   "buttons": {
     "items": [
