@@ -24,9 +24,9 @@
   "hero": {
     "greeting": "wow its",
     "name": "idkbilal",
-    "subtitle": "i do basically everything",
+    "subtitle": "i build both useless and useful stuff",
     "typing": false,
-    "avatarShape": "cookie12",
+    "avatarShape": "flower",
     "chips": [
       {
         "icon": "location_on",
@@ -39,11 +39,11 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer, designer and animator"
+        "label": "Developer or designer."
       },
       {
         "icon": "code",
-        "label": "Mostly frontend and sometimes fullstack."
+        "label": "Mostly frontend sometimes backend"
       }
     ]
   },
@@ -54,12 +54,12 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Java"
           },
           {
             "icon": "brand:javascript",
@@ -75,12 +75,16 @@
         "title": "Tools",
         "items": [
           {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
             "icon": "brand:figma",
             "label": "Figma"
           },
           {
-            "icon": "brand:github",
-            "label": "Git"
+            "icon": "brand:claudecode",
+            "label": "Claude (yes i vibecode)"
           }
         ]
       }
