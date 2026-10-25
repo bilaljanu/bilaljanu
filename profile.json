@@ -18,10 +18,11 @@
     "buttons"
   ],
   "hidden": [
-    "socials"
+    "socials",
+    "buttons"
   ],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "wow its",
     "name": "idkbilal",
     "subtitle": "i do basically everything",
     "typing": false,
