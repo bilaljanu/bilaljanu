@@ -1,27 +1,10 @@
 {
- "key": "deb329dd",
+ "key": "39f7e0d",
  "stars": 0,
- "contributions": 11,
- "repos": 4,
+ "contributions": 8,
+ "repos": 3,
  "followers": 0,
- "languages": [
-  [
-   "JavaScript",
-   791675
-  ],
-  [
-   "Java",
-   635666
-  ],
-  [
-   "HTML",
-   113589
-  ],
-  [
-   "Python",
-   40944
-  ]
- ],
+ "languages": [],
  "days": [
   [
    {
@@ -99,7 +82,7 @@
   ],
   [
    {
-    "c": 7,
+    "c": 4,
     "day": 25,
     "today": true
    },
@@ -124,27 +107,9 @@
    "stars": 0,
    "language": null,
    "topics": []
-  },
-  {
-   "name": "wow17",
-   "url": "https://github.com/bilaljanu/wow17",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
   }
  ],
  "all": [
-  {
-   "name": "wow17",
-   "url": "https://github.com/bilaljanu/wow17",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
   {
    "name": "bilaljanu",
    "url": "https://github.com/bilaljanu/bilaljanu",
