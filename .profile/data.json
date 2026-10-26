@@ -1,10 +1,27 @@
 {
- "key": "f4c1804e",
+ "key": "cee8e700",
  "stars": 0,
- "contributions": 8,
- "repos": 3,
+ "contributions": 11,
+ "repos": 4,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "JavaScript",
+   644567
+  ],
+  [
+   "Java",
+   622988
+  ],
+  [
+   "HTML",
+   114020
+  ],
+  [
+   "Python",
+   40944
+  ]
+ ],
  "days": [
   [
    {
@@ -82,7 +99,7 @@
   ],
   [
    {
-    "c": 4,
+    "c": 7,
     "day": 25,
     "today": false
    },
@@ -114,6 +131,15 @@
   }
  ],
  "all": [
+  {
+   "name": "wow17",
+   "url": "https://github.com/bilaljanu/wow17",
+   "text": "porting mc 1.21.1 to web. x_4r_0 on discord if you wanna say smth",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
   {
    "name": "bilaljanu",
    "url": "https://github.com/bilaljanu/bilaljanu",
