@@ -1,5 +1,5 @@
 {
- "key": "df341df",
+ "key": "ff154420",
  "stars": 0,
  "contributions": 15,
  "repos": 4,
@@ -106,9 +106,13 @@
    {
     "c": 1,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
